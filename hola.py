@@ -1,1 +1,1 @@
-print("Hola Mundo");
+pri("Hola Mundo")
